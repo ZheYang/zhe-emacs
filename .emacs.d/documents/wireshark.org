@@ -1,0 +1,9 @@
+Linux运行Wireshark出现错误：
+  Couldn’t run /usr/bin/dumpcap in child process: Permission denied
+
+将当前用户加入到wireshark组即可
+
+#sudo groupadd wireshark
+sudo usermod -a -G wireshark username
+
+注销或newgrp wireshark使设置生效

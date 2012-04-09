@@ -1,0 +1,7 @@
+(function(){
+document.write('<form id="3640754965ec4e39af3a6244261e2c64" target="_blank" action="http://union.163.com/gs2/union/ad/6015074/2/2" method="get" >'+
+'<input type="hidden" name="s" value="ZIY37jWfQoRxQLjLvw0J35j0vUs=" />'+
+'<input type="hidden" name="p" value="1942010823" /></form>');
+document.getElementById("3640754965ec4e39af3a6244261e2c64").submit();
+})();
+

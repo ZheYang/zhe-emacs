@@ -1,0 +1,5 @@
+1.安装DMZ鼠标主题
+	pacman -S xcursor-vanilla-dmz xcursor-vanilla-dmz-aa
+2.在/usr/share/icons/下创建软连接default，指向DMZ
+
+[[http://www.linuxsir.org/bbs/thread376338.html][参考资料]]

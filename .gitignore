@@ -1,0 +1,7 @@
+*~
+.emacs.d/documents/*
+.emacs.d/auto-save-list/*
+tramp
+Thumbs.db
+session.*
+
